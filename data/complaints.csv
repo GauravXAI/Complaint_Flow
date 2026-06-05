@@ -1,0 +1,801 @@
+complaint_id,text,officer_id,officer_name,domain,priority,eta_days
+CMP1000,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,8
+CMP1001,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,3
+CMP1002,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1003,Pipeline leak on main road wasting water for weeks Please look into this urgently.,OFF005,Mohan Das,water,Medium,4
+CMP1004,Pipeline leak on main road wasting water for weeks Kindly resolve at earliest.,OFF005,Mohan Das,water,Medium,3
+CMP1005,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1006,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,16
+CMP1007,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,9
+CMP1008,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,9
+CMP1009,Public toilet near bus stand is non-functional and filthy This has been going on for too long.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1010,Street lights have been non-functional for 3 weeks Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1011,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,3
+CMP1012,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,2
+CMP1013,Road construction debris left blocking traffic for days Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Low,10
+CMP1014,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1015,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,6
+CMP1016,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1017,Water supply comes only for 30 minutes a day Local authorities have not responded.,OFF005,Mohan Das,water,Medium,9
+CMP1018,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,2
+CMP1019,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1020,"Power outage in our area for the last 12 hours, no response from helpline This is affecting many residents.",OFF004,Sunita Patel,electricity,High,1
+CMP1021,Loud music from nearby wedding hall till 3am every night Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1022,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,1
+CMP1023,Amare ghara saamne rasta beshi kharapa This has been going on for too long.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1024,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1025,Pani supply bilkul band ho gayi hai ward mein This is affecting many residents.,OFF005,Mohan Das,water,High,3
+CMP1026,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1027,Bribe demanded for property registration document This is affecting many residents.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1028,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1029,"Bijli 2 din se nahi hai, koi sunne wala nahi Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1030,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,4
+CMP1031,Amare ghara saamne rasta beshi kharapa Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1032,Contractor taking money but not completing work We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1033,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,3
+CMP1034,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,3
+CMP1035,Road construction debris left blocking traffic for days This has been going on for too long.,OFF006,Kavitha Rao,roads,Low,9
+CMP1036,Drainage overflow on main road due to blocked drains Children and elderly people are at risk.,OFF003,Ankit Verma,sanitation,High,3
+CMP1037,"Garbage not collected for 10 days, health hazard Local authorities have not responded.",OFF003,Ankit Verma,sanitation,High,2
+CMP1038,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,3
+CMP1039,Open burning of garbage causing pollution Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1040,Construction noise after 10pm violating norms daily This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1041,"Water pressure is very low, barely usable Multiple complaints filed but no action taken.",OFF005,Mohan Das,water,Medium,7
+CMP1042,Drainage overflow on main road due to blocked drains This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,5
+CMP1043,The footpath near market is completely broken Please look into this urgently.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1044,No water supply since 2 days in entire block We are suffering due to this issue.,OFF005,Mohan Das,water,High,2
+CMP1045,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,6
+CMP1046,Dead animal carcass near playground not removed We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,2
+CMP1047,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,2
+CMP1048,The footpath near market is completely broken Please look into this urgently.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1049,The footpath near market is completely broken Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1050,Sewage water mixing with drinking water supply,OFF005,Mohan Das,water,High,1
+CMP1051,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1052,"Power outage in our area for the last 12 hours, no response from helpline This has been going on for too long.",OFF004,Sunita Patel,electricity,High,2
+CMP1053,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,5
+CMP1054,Stray dogs attacking people near the school This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,1
+CMP1055,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1056,"Wires hanging loose near the park, safety hazard This is affecting many residents.",OFF004,Sunita Patel,electricity,High,2
+CMP1057,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1058,Stray dogs attacking people near the school This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,2
+CMP1059,Electricity bill has wrong readings for three consecutive months Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,8
+CMP1060,Water supply comes only for 30 minutes a day Children and elderly people are at risk.,OFF005,Mohan Das,water,Medium,8
+CMP1061,Dead animal carcass near playground not removed Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,1
+CMP1062,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,4
+CMP1063,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,3
+CMP1064,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,3
+CMP1065,Contractor taking money but not completing work Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1066,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,4
+CMP1067,Water supply comes only for 30 minutes a day This is affecting many residents.,OFF005,Mohan Das,water,Medium,8
+CMP1068,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1069,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1070,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1071,Street lights have been non-functional for 3 weeks Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1072,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,10
+CMP1073,The bridge near sector 5 has cracks and is dangerous Local authorities have not responded.,OFF001,Rajesh Kumar,infrastructure,High,3
+CMP1074,Road construction debris left blocking traffic for days Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,Low,11
+CMP1075,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,6
+CMP1076,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,2
+CMP1077,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,2
+CMP1078,Pani supply bilkul band ho gayi hai ward mein,OFF005,Mohan Das,water,High,2
+CMP1079,Street lights have been non-functional for 3 weeks Please look into this urgently.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1080,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1081,Electricity bill has wrong readings for three consecutive months Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,8
+CMP1082,Bribe demanded for property registration document Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,3
+CMP1083,Factory releasing smoke causing breathing problems Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1084,Construction noise after 10pm violating norms daily Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,8
+CMP1085,Water supply comes only for 30 minutes a day This has been going on for too long.,OFF005,Mohan Das,water,Medium,9
+CMP1086,Illegal dumping of chemical waste near river We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1087,Public toilet near bus stand is non-functional and filthy This has been going on for too long.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1088,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,2
+CMP1089,The bridge near sector 5 has cracks and is dangerous,OFF001,Rajesh Kumar,infrastructure,High,4
+CMP1090,Open burning of garbage causing pollution Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1091,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1092,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1093,"Garbage not collected for 10 days, health hazard This is affecting many residents.",OFF003,Ankit Verma,sanitation,High,4
+CMP1094,Open burning of garbage causing pollution This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1095,Illegal dumping of chemical waste near river We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1096,"Garbage not collected for 10 days, health hazard Kindly resolve at earliest.",OFF003,Ankit Verma,sanitation,High,4
+CMP1097,Drainage overflow on main road due to blocked drains Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,High,3
+CMP1098,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,13
+CMP1099,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1100,Road construction debris left blocking traffic for days This has been going on for too long.,OFF006,Kavitha Rao,roads,Low,12
+CMP1101,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,9
+CMP1102,The bridge near sector 5 has cracks and is dangerous Local authorities have not responded.,OFF001,Rajesh Kumar,infrastructure,High,4
+CMP1103,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,12
+CMP1104,Amare ghara saamne rasta beshi kharapa Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,9
+CMP1105,Drainage overflow on main road due to blocked drains Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,5
+CMP1106,Construction noise after 10pm violating norms daily We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1107,Construction noise after 10pm violating norms daily Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1108,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1109,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,5
+CMP1110,Government scheme benefits not received despite eligibility Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,15
+CMP1111,Dead animal carcass near playground not removed We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,1
+CMP1112,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,9
+CMP1113,The bridge near sector 5 has cracks and is dangerous Children and elderly people are at risk.,OFF001,Rajesh Kumar,infrastructure,High,1
+CMP1114,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1115,Open burning of garbage causing pollution This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1116,No water supply since 2 days in entire block This is affecting many residents.,OFF005,Mohan Das,water,High,1
+CMP1117,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,3
+CMP1118,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,3
+CMP1119,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,7
+CMP1120,Road construction debris left blocking traffic for days This has been going on for too long.,OFF006,Kavitha Rao,roads,Low,9
+CMP1121,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,2
+CMP1122,Meter box outside our colony is damaged and exposed Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1123,Loud music from nearby wedding hall till 3am every night Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1124,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,3
+CMP1125,Open burning of garbage causing pollution Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1126,"Bijli 2 din se nahi hai, koi sunne wala nahi Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,3
+CMP1127,Double taxation applied without proper reason This has been going on for too long.,OFF002,Priya Sharma,finance,Medium,11
+CMP1128,The road in front of my house has a large pothole causing accidents Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,High,2
+CMP1129,Factory releasing smoke causing breathing problems Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1130,Illegal dumping of chemical waste near river This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1131,Construction noise after 10pm violating norms daily Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,Medium,8
+CMP1132,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,3
+CMP1133,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1134,Electricity bill has wrong readings for three consecutive months This has been going on for too long.,OFF002,Priya Sharma,finance,Medium,6
+CMP1135,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,7
+CMP1136,Kachra uthane wale 1 hafte se nahi aaye This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,2
+CMP1137,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,5
+CMP1138,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,6
+CMP1139,Public toilet near bus stand is non-functional and filthy Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,Medium,7
+CMP1140,The road in front of my house has a large pothole causing accidents We are suffering due to this issue.,OFF006,Kavitha Rao,roads,High,5
+CMP1141,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,13
+CMP1142,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,2
+CMP1143,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,1
+CMP1144,Meter box outside our colony is damaged and exposed Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1145,Electricity bill has wrong readings for three consecutive months Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,7
+CMP1146,Illegal dumping of chemical waste near river Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1147,The footpath near market is completely broken This is affecting many residents.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1148,Dead animal carcass near playground not removed Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,1
+CMP1149,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,12
+CMP1150,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,3
+CMP1151,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1152,Dead animal carcass near playground not removed Children and elderly people are at risk.,OFF003,Ankit Verma,sanitation,High,3
+CMP1153,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,7
+CMP1154,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1155,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1156,Drainage overflow on main road due to blocked drains We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,5
+CMP1157,Street lights have been non-functional for 3 weeks This has been going on for too long.,OFF004,Sunita Patel,electricity,Medium,6
+CMP1158,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,1
+CMP1159,Street lights have been non-functional for 3 weeks Multiple complaints filed but no action taken.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1160,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,5
+CMP1161,"Power outage in our area for the last 12 hours, no response from helpline Local authorities have not responded.",OFF004,Sunita Patel,electricity,High,2
+CMP1162,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,3
+CMP1163,Public toilet near bus stand is non-functional and filthy Local authorities have not responded.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1164,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,2
+CMP1165,Construction noise after 10pm violating norms daily Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,9
+CMP1166,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,8
+CMP1167,Illegal dumping of chemical waste near river Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1168,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1169,"Garbage not collected for 10 days, health hazard Kindly resolve at earliest.",OFF003,Ankit Verma,sanitation,High,1
+CMP1170,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,1
+CMP1171,Electricity bill has wrong readings for three consecutive months Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,9
+CMP1172,Pani supply bilkul band ho gayi hai ward mein Local authorities have not responded.,OFF005,Mohan Das,water,High,4
+CMP1173,"Garbage not collected for 10 days, health hazard Multiple complaints filed but no action taken.",OFF003,Ankit Verma,sanitation,High,4
+CMP1174,Pani supply bilkul band ho gayi hai ward mein Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,High,1
+CMP1175,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1176,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1177,Amare ghara saamne rasta beshi kharapa This has been going on for too long.,OFF006,Kavitha Rao,roads,Medium,9
+CMP1178,Bribe demanded for property registration document Children and elderly people are at risk.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1179,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1180,Ration shop owner selling goods at higher than official price Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1181,"Wires hanging loose near the park, safety hazard This has been going on for too long.",OFF004,Sunita Patel,electricity,High,1
+CMP1182,Transformer at main junction is sparking dangerously We are suffering due to this issue.,OFF004,Sunita Patel,electricity,High,1
+CMP1183,Factory releasing smoke causing breathing problems Multiple complaints filed but no action taken.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1184,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,3
+CMP1185,Government scheme benefits not received despite eligibility Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,15
+CMP1186,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,6
+CMP1187,Public toilet near bus stand is non-functional and filthy This is affecting many residents.,OFF003,Ankit Verma,sanitation,Medium,7
+CMP1188,Transformer at main junction is sparking dangerously Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,High,1
+CMP1189,Bribe demanded for property registration document Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1190,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1191,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,4
+CMP1192,"Bijli 2 din se nahi hai, koi sunne wala nahi Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1193,Dead animal carcass near playground not removed Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,3
+CMP1194,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,9
+CMP1195,Stray dogs attacking people near the school Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,3
+CMP1196,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,4
+CMP1197,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,2
+CMP1198,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,7
+CMP1199,The road in front of my house has a large pothole causing accidents Please look into this urgently.,OFF006,Kavitha Rao,roads,High,5
+CMP1200,Pipeline leak on main road wasting water for weeks This has been going on for too long.,OFF005,Mohan Das,water,Medium,4
+CMP1201,Dead animal carcass near playground not removed Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,1
+CMP1202,Stray dogs attacking people near the school Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,3
+CMP1203,"Power outage in our area for the last 12 hours, no response from helpline This has been going on for too long.",OFF004,Sunita Patel,electricity,High,3
+CMP1204,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,6
+CMP1205,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,4
+CMP1206,Government scheme benefits not received despite eligibility We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,13
+CMP1207,Pipeline leak on main road wasting water for weeks Local authorities have not responded.,OFF005,Mohan Das,water,Medium,5
+CMP1208,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1209,Contractor taking money but not completing work Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1210,Transformer at main junction is sparking dangerously We are suffering due to this issue.,OFF004,Sunita Patel,electricity,High,1
+CMP1211,Pipeline leak on main road wasting water for weeks We are suffering due to this issue.,OFF005,Mohan Das,water,Medium,5
+CMP1212,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,6
+CMP1213,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,1
+CMP1214,Ration shop owner selling goods at higher than official price Local authorities have not responded.,OFF008,Fatima Sheikh,corruption,High,3
+CMP1215,Transformer at main junction is sparking dangerously Local authorities have not responded.,OFF004,Sunita Patel,electricity,High,2
+CMP1216,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,7
+CMP1217,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,6
+CMP1218,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,7
+CMP1219,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1220,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1221,Road construction debris left blocking traffic for days Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Low,10
+CMP1222,Government scheme benefits not received despite eligibility Please look into this urgently.,OFF002,Priya Sharma,finance,Medium,15
+CMP1223,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1224,"Wires hanging loose near the park, safety hazard",OFF004,Sunita Patel,electricity,High,2
+CMP1225,The bridge near sector 5 has cracks and is dangerous,OFF001,Rajesh Kumar,infrastructure,High,1
+CMP1226,Factory releasing smoke causing breathing problems This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1227,Contractor taking money but not completing work This is affecting many residents.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1228,Street lights have been non-functional for 3 weeks Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1229,The footpath near market is completely broken Local authorities have not responded.,OFF006,Kavitha Rao,roads,Medium,9
+CMP1230,"Bijli 2 din se nahi hai, koi sunne wala nahi We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,1
+CMP1231,Bribe demanded for property registration document This is affecting many residents.,OFF008,Fatima Sheikh,corruption,High,3
+CMP1232,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,4
+CMP1233,Pani supply bilkul band ho gayi hai ward mein This is affecting many residents.,OFF005,Mohan Das,water,High,1
+CMP1234,Loud music from nearby wedding hall till 3am every night Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1235,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1236,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1237,Meter box outside our colony is damaged and exposed We are suffering due to this issue.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1238,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,1
+CMP1239,"Wires hanging loose near the park, safety hazard This has been going on for too long.",OFF004,Sunita Patel,electricity,High,1
+CMP1240,Double taxation applied without proper reason Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,9
+CMP1241,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,2
+CMP1242,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,2
+CMP1243,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,6
+CMP1244,Loud music from nearby wedding hall till 3am every night Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1245,Sewage water mixing with drinking water supply,OFF005,Mohan Das,water,High,2
+CMP1246,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,10
+CMP1247,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,9
+CMP1248,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,4
+CMP1249,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,15
+CMP1250,"Power outage in our area for the last 12 hours, no response from helpline Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1251,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,3
+CMP1252,Illegal dumping of chemical waste near river Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,High,1
+CMP1253,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1254,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,4
+CMP1255,Water supply comes only for 30 minutes a day,OFF005,Mohan Das,water,Medium,7
+CMP1256,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,1
+CMP1257,"Bijli 2 din se nahi hai, koi sunne wala nahi Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1258,Amare ghara saamne rasta beshi kharapa This has been going on for too long.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1259,Street lights have been non-functional for 3 weeks We are suffering due to this issue.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1260,Loud music from nearby wedding hall till 3am every night Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1261,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,8
+CMP1262,Open burning of garbage causing pollution This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1263,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,3
+CMP1264,Construction noise after 10pm violating norms daily This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1265,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,1
+CMP1266,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,10
+CMP1267,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1268,Meter box outside our colony is damaged and exposed This is affecting many residents.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1269,Open burning of garbage causing pollution We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1270,Meter box outside our colony is damaged and exposed We are suffering due to this issue.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1271,Drainage overflow on main road due to blocked drains This has been going on for too long.,OFF003,Ankit Verma,sanitation,High,2
+CMP1272,Open burning of garbage causing pollution Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1273,Road construction debris left blocking traffic for days This is affecting many residents.,OFF006,Kavitha Rao,roads,Low,12
+CMP1274,Street lights have been non-functional for 3 weeks Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,6
+CMP1275,Pani supply bilkul band ho gayi hai ward mein,OFF005,Mohan Das,water,High,1
+CMP1276,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,1
+CMP1277,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,7
+CMP1278,Kachra uthane wale 1 hafte se nahi aaye Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,3
+CMP1279,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1280,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,13
+CMP1281,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1282,"Power outage in our area for the last 12 hours, no response from helpline Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,2
+CMP1283,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1284,Ration shop owner selling goods at higher than official price This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,3
+CMP1285,Loud music from nearby wedding hall till 3am every night Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1286,Sewage water mixing with drinking water supply This has been going on for too long.,OFF005,Mohan Das,water,High,3
+CMP1287,Pipeline leak on main road wasting water for weeks Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,Medium,3
+CMP1288,Transformer at main junction is sparking dangerously Please look into this urgently.,OFF004,Sunita Patel,electricity,High,2
+CMP1289,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,3
+CMP1290,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1291,Illegal dumping of chemical waste near river We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1292,Stray dogs attacking people near the school We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,2
+CMP1293,Illegal dumping of chemical waste near river Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1294,No water supply since 2 days in entire block Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,High,3
+CMP1295,Mere ghar ke paas ki sadak mein bahut bada gadha hai This is affecting many residents.,OFF006,Kavitha Rao,roads,High,2
+CMP1296,"Power outage in our area for the last 12 hours, no response from helpline Kindly resolve at earliest.",OFF004,Sunita Patel,electricity,High,3
+CMP1297,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1298,Double taxation applied without proper reason Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,9
+CMP1299,Pani supply bilkul band ho gayi hai ward mein,OFF005,Mohan Das,water,High,4
+CMP1300,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,6
+CMP1301,Government scheme benefits not received despite eligibility Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,13
+CMP1302,Mere ghar ke paas ki sadak mein bahut bada gadha hai Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,High,5
+CMP1303,The road in front of my house has a large pothole causing accidents Please look into this urgently.,OFF006,Kavitha Rao,roads,High,4
+CMP1304,Meter box outside our colony is damaged and exposed Local authorities have not responded.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1305,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1306,Factory releasing smoke causing breathing problems We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1307,"Bijli 2 din se nahi hai, koi sunne wala nahi Please look into this urgently.",OFF004,Sunita Patel,electricity,High,1
+CMP1308,Public toilet near bus stand is non-functional and filthy This has been going on for too long.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1309,Sewage water mixing with drinking water supply This is affecting many residents.,OFF005,Mohan Das,water,High,2
+CMP1310,Kachra uthane wale 1 hafte se nahi aaye Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,4
+CMP1311,Street lights have been non-functional for 3 weeks This has been going on for too long.,OFF004,Sunita Patel,electricity,Medium,6
+CMP1312,Double taxation applied without proper reason This has been going on for too long.,OFF002,Priya Sharma,finance,Medium,10
+CMP1313,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,15
+CMP1314,Sewage water mixing with drinking water supply We are suffering due to this issue.,OFF005,Mohan Das,water,High,3
+CMP1315,"Wires hanging loose near the park, safety hazard",OFF004,Sunita Patel,electricity,High,4
+CMP1316,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1317,Bribe demanded for property registration document Local authorities have not responded.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1318,Street lights have been non-functional for 3 weeks Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,6
+CMP1319,The footpath near market is completely broken This has been going on for too long.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1320,Contractor taking money but not completing work Local authorities have not responded.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1321,Government scheme benefits not received despite eligibility We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,16
+CMP1322,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,1
+CMP1323,"Power outage in our area for the last 12 hours, no response from helpline Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,2
+CMP1324,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,2
+CMP1325,Illegal dumping of chemical waste near river Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1326,Double taxation applied without proper reason This has been going on for too long.,OFF002,Priya Sharma,finance,Medium,12
+CMP1327,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,9
+CMP1328,Pani supply bilkul band ho gayi hai ward mein Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,High,1
+CMP1329,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,1
+CMP1330,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,4
+CMP1331,Illegal dumping of chemical waste near river This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1332,"Wires hanging loose near the park, safety hazard Local authorities have not responded.",OFF004,Sunita Patel,electricity,High,3
+CMP1333,"Garbage not collected for 10 days, health hazard Please look into this urgently.",OFF003,Ankit Verma,sanitation,High,2
+CMP1334,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,1
+CMP1335,Dead animal carcass near playground not removed Children and elderly people are at risk.,OFF003,Ankit Verma,sanitation,High,2
+CMP1336,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,4
+CMP1337,Sewage water mixing with drinking water supply We are suffering due to this issue.,OFF005,Mohan Das,water,High,1
+CMP1338,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,11
+CMP1339,Sewage water mixing with drinking water supply Children and elderly people are at risk.,OFF005,Mohan Das,water,High,1
+CMP1340,"Wires hanging loose near the park, safety hazard",OFF004,Sunita Patel,electricity,High,4
+CMP1341,Contractor taking money but not completing work This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1342,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,3
+CMP1343,Kachra uthane wale 1 hafte se nahi aaye Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,1
+CMP1344,Bribe demanded for property registration document We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1345,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,2
+CMP1346,Pani supply bilkul band ho gayi hai ward mein Please look into this urgently.,OFF005,Mohan Das,water,High,1
+CMP1347,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,3
+CMP1348,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,9
+CMP1349,"Water pressure is very low, barely usable Kindly resolve at earliest.",OFF005,Mohan Das,water,Medium,5
+CMP1350,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,7
+CMP1351,No water supply since 2 days in entire block This has been going on for too long.,OFF005,Mohan Das,water,High,1
+CMP1352,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,2
+CMP1353,Factory releasing smoke causing breathing problems Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1354,Stray dogs attacking people near the school Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,3
+CMP1355,Road construction debris left blocking traffic for days Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Low,12
+CMP1356,Mere ghar ke paas ki sadak mein bahut bada gadha hai This has been going on for too long.,OFF006,Kavitha Rao,roads,High,3
+CMP1357,Bribe demanded for property registration document This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1358,Contractor taking money but not completing work This is affecting many residents.,OFF008,Fatima Sheikh,corruption,High,6
+CMP1359,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1360,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,6
+CMP1361,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1362,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,3
+CMP1363,Pani supply bilkul band ho gayi hai ward mein Kindly resolve at earliest.,OFF005,Mohan Das,water,High,4
+CMP1364,"Power outage in our area for the last 12 hours, no response from helpline We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,1
+CMP1365,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,11
+CMP1366,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,2
+CMP1367,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1368,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,9
+CMP1369,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,6
+CMP1370,Ration shop owner selling goods at higher than official price Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1371,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,2
+CMP1372,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,7
+CMP1373,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,6
+CMP1374,Kachra uthane wale 1 hafte se nahi aaye Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,3
+CMP1375,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,3
+CMP1376,Pani supply bilkul band ho gayi hai ward mein We are suffering due to this issue.,OFF005,Mohan Das,water,High,3
+CMP1377,The bridge near sector 5 has cracks and is dangerous,OFF001,Rajesh Kumar,infrastructure,High,1
+CMP1378,Stray dogs attacking people near the school Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,4
+CMP1379,Pipeline leak on main road wasting water for weeks We are suffering due to this issue.,OFF005,Mohan Das,water,Medium,4
+CMP1380,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1381,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,6
+CMP1382,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1383,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1384,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,2
+CMP1385,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,8
+CMP1386,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,3
+CMP1387,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,3
+CMP1388,Water supply comes only for 30 minutes a day We are suffering due to this issue.,OFF005,Mohan Das,water,Medium,8
+CMP1389,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,11
+CMP1390,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,9
+CMP1391,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,6
+CMP1392,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,12
+CMP1393,"Water pressure is very low, barely usable Kindly resolve at earliest.",OFF005,Mohan Das,water,Medium,6
+CMP1394,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,1
+CMP1395,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,2
+CMP1396,Transformer at main junction is sparking dangerously We are suffering due to this issue.,OFF004,Sunita Patel,electricity,High,1
+CMP1397,The road in front of my house has a large pothole causing accidents Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,High,5
+CMP1398,Mere ghar ke paas ki sadak mein bahut bada gadha hai Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,High,4
+CMP1399,The footpath near market is completely broken This is affecting many residents.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1400,Sewage water mixing with drinking water supply Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,High,1
+CMP1401,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,2
+CMP1402,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,2
+CMP1403,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1404,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,2
+CMP1405,No water supply since 2 days in entire block Kindly resolve at earliest.,OFF005,Mohan Das,water,High,2
+CMP1406,Government scheme benefits not received despite eligibility Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,14
+CMP1407,Loud music from nearby wedding hall till 3am every night This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1408,Sewage water mixing with drinking water supply We are suffering due to this issue.,OFF005,Mohan Das,water,High,2
+CMP1409,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,3
+CMP1410,Drainage overflow on main road due to blocked drains Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,High,2
+CMP1411,Contractor taking money but not completing work Please look into this urgently.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1412,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,3
+CMP1413,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1414,"Wires hanging loose near the park, safety hazard We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,3
+CMP1415,Mere ghar ke paas ki sadak mein bahut bada gadha hai Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,High,3
+CMP1416,Kachra uthane wale 1 hafte se nahi aaye This has been going on for too long.,OFF003,Ankit Verma,sanitation,High,1
+CMP1417,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1418,Bribe demanded for property registration document We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1419,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,3
+CMP1420,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1421,The footpath near market is completely broken Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1422,Dead animal carcass near playground not removed Children and elderly people are at risk.,OFF003,Ankit Verma,sanitation,High,1
+CMP1423,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1424,Road construction debris left blocking traffic for days We are suffering due to this issue.,OFF006,Kavitha Rao,roads,Low,9
+CMP1425,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1426,Contractor taking money but not completing work Local authorities have not responded.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1427,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,3
+CMP1428,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,9
+CMP1429,Pipeline leak on main road wasting water for weeks Please look into this urgently.,OFF005,Mohan Das,water,Medium,5
+CMP1430,Amare ghara saamne rasta beshi kharapa Local authorities have not responded.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1431,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1432,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,9
+CMP1433,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1434,Illegal dumping of chemical waste near river Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1435,Construction noise after 10pm violating norms daily Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1436,Pani supply bilkul band ho gayi hai ward mein Children and elderly people are at risk.,OFF005,Mohan Das,water,High,3
+CMP1437,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,2
+CMP1438,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1439,Loud music from nearby wedding hall till 3am every night Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1440,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,4
+CMP1441,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1442,"Garbage not collected for 10 days, health hazard Kindly resolve at earliest.",OFF003,Ankit Verma,sanitation,High,2
+CMP1443,The footpath near market is completely broken Local authorities have not responded.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1444,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,3
+CMP1445,Illegal dumping of chemical waste near river This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1446,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,2
+CMP1447,"Water pressure is very low, barely usable Children and elderly people are at risk.",OFF005,Mohan Das,water,Medium,7
+CMP1448,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,13
+CMP1449,"Water pressure is very low, barely usable This is affecting many residents.",OFF005,Mohan Das,water,Medium,7
+CMP1450,Water supply comes only for 30 minutes a day,OFF005,Mohan Das,water,Medium,7
+CMP1451,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1452,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,3
+CMP1453,Transformer at main junction is sparking dangerously We are suffering due to this issue.,OFF004,Sunita Patel,electricity,High,2
+CMP1454,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,4
+CMP1455,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,7
+CMP1456,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1457,"Garbage not collected for 10 days, health hazard This has been going on for too long.",OFF003,Ankit Verma,sanitation,High,3
+CMP1458,"Bijli 2 din se nahi hai, koi sunne wala nahi This has been going on for too long.",OFF004,Sunita Patel,electricity,High,1
+CMP1459,Amare ghara saamne rasta beshi kharapa Please look into this urgently.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1460,The footpath near market is completely broken Local authorities have not responded.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1461,Road construction debris left blocking traffic for days Please look into this urgently.,OFF006,Kavitha Rao,roads,Low,10
+CMP1462,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,7
+CMP1463,The bridge near sector 5 has cracks and is dangerous,OFF001,Rajesh Kumar,infrastructure,High,4
+CMP1464,The bridge near sector 5 has cracks and is dangerous Kindly resolve at earliest.,OFF001,Rajesh Kumar,infrastructure,High,3
+CMP1465,Pani supply bilkul band ho gayi hai ward mein Local authorities have not responded.,OFF005,Mohan Das,water,High,2
+CMP1466,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,1
+CMP1467,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,12
+CMP1468,Contractor taking money but not completing work We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1469,Stray dogs attacking people near the school This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,1
+CMP1470,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,9
+CMP1471,The road in front of my house has a large pothole causing accidents This is affecting many residents.,OFF006,Kavitha Rao,roads,High,5
+CMP1472,Government scheme benefits not received despite eligibility This is affecting many residents.,OFF002,Priya Sharma,finance,Medium,13
+CMP1473,Water supply comes only for 30 minutes a day We are suffering due to this issue.,OFF005,Mohan Das,water,Medium,8
+CMP1474,Road construction debris left blocking traffic for days Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,Low,9
+CMP1475,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,3
+CMP1476,Construction noise after 10pm violating norms daily Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1477,Ration shop owner selling goods at higher than official price This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1478,"Power outage in our area for the last 12 hours, no response from helpline This has been going on for too long.",OFF004,Sunita Patel,electricity,High,1
+CMP1479,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1480,Construction noise after 10pm violating norms daily This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1481,Illegal dumping of chemical waste near river This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1482,Sewage water mixing with drinking water supply Local authorities have not responded.,OFF005,Mohan Das,water,High,1
+CMP1483,"Garbage not collected for 10 days, health hazard This is affecting many residents.",OFF003,Ankit Verma,sanitation,High,3
+CMP1484,Ration shop owner selling goods at higher than official price Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1485,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,4
+CMP1486,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1487,"Wires hanging loose near the park, safety hazard",OFF004,Sunita Patel,electricity,High,4
+CMP1488,Pani supply bilkul band ho gayi hai ward mein Please look into this urgently.,OFF005,Mohan Das,water,High,1
+CMP1489,"Power outage in our area for the last 12 hours, no response from helpline This has been going on for too long.",OFF004,Sunita Patel,electricity,High,3
+CMP1490,Public toilet near bus stand is non-functional and filthy This is affecting many residents.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1491,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,4
+CMP1492,Drainage overflow on main road due to blocked drains This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,3
+CMP1493,Drainage overflow on main road due to blocked drains We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,2
+CMP1494,Dead animal carcass near playground not removed We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,1
+CMP1495,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1496,Government scheme benefits not received despite eligibility Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,15
+CMP1497,Government scheme benefits not received despite eligibility Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,15
+CMP1498,"Water pressure is very low, barely usable Multiple complaints filed but no action taken.",OFF005,Mohan Das,water,Medium,7
+CMP1499,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1500,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,5
+CMP1501,Electricity bill has wrong readings for three consecutive months Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,7
+CMP1502,Open burning of garbage causing pollution Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1503,Road construction debris left blocking traffic for days Local authorities have not responded.,OFF006,Kavitha Rao,roads,Low,12
+CMP1504,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,2
+CMP1505,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,5
+CMP1506,Amare ghara saamne rasta beshi kharapa Local authorities have not responded.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1507,Amare ghara saamne rasta beshi kharapa This is affecting many residents.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1508,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,9
+CMP1509,Government scheme benefits not received despite eligibility Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,13
+CMP1510,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1511,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,5
+CMP1512,The bridge near sector 5 has cracks and is dangerous Kindly resolve at earliest.,OFF001,Rajesh Kumar,infrastructure,High,4
+CMP1513,Electricity bill has wrong readings for three consecutive months Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,8
+CMP1514,Government scheme benefits not received despite eligibility Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,16
+CMP1515,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,5
+CMP1516,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,9
+CMP1517,Government scheme benefits not received despite eligibility Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,14
+CMP1518,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,4
+CMP1519,Pipeline leak on main road wasting water for weeks Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,Medium,4
+CMP1520,Construction noise after 10pm violating norms daily,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1521,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1522,Drainage overflow on main road due to blocked drains This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,2
+CMP1523,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,7
+CMP1524,Dead animal carcass near playground not removed We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,2
+CMP1525,Construction noise after 10pm violating norms daily This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,Medium,8
+CMP1526,Sewage water mixing with drinking water supply Kindly resolve at earliest.,OFF005,Mohan Das,water,High,1
+CMP1527,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,4
+CMP1528,Sewage water mixing with drinking water supply,OFF005,Mohan Das,water,High,1
+CMP1529,Factory releasing smoke causing breathing problems Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1530,"Bijli 2 din se nahi hai, koi sunne wala nahi Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,1
+CMP1531,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1532,The footpath near market is completely broken Please look into this urgently.,OFF006,Kavitha Rao,roads,Medium,9
+CMP1533,"Water pressure is very low, barely usable We are suffering due to this issue.",OFF005,Mohan Das,water,Medium,7
+CMP1534,Factory releasing smoke causing breathing problems We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1535,"Power outage in our area for the last 12 hours, no response from helpline Children and elderly people are at risk.",OFF004,Sunita Patel,electricity,High,2
+CMP1536,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,4
+CMP1537,Open burning of garbage causing pollution We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1538,Drainage overflow on main road due to blocked drains This has been going on for too long.,OFF003,Ankit Verma,sanitation,High,2
+CMP1539,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,9
+CMP1540,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,1
+CMP1541,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,1
+CMP1542,Electricity bill has wrong readings for three consecutive months Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,7
+CMP1543,Loud music from nearby wedding hall till 3am every night,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1544,Water supply comes only for 30 minutes a day This has been going on for too long.,OFF005,Mohan Das,water,Medium,8
+CMP1545,Bribe demanded for property registration document Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1546,Pani supply bilkul band ho gayi hai ward mein This is affecting many residents.,OFF005,Mohan Das,water,High,2
+CMP1547,The footpath near market is completely broken Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Medium,7
+CMP1548,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1549,Meter box outside our colony is damaged and exposed Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1550,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,1
+CMP1551,Pani supply bilkul band ho gayi hai ward mein This has been going on for too long.,OFF005,Mohan Das,water,High,4
+CMP1552,Bribe demanded for property registration document This is affecting many residents.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1553,Road construction debris left blocking traffic for days Local authorities have not responded.,OFF006,Kavitha Rao,roads,Low,10
+CMP1554,Water supply comes only for 30 minutes a day This has been going on for too long.,OFF005,Mohan Das,water,Medium,8
+CMP1555,"Wires hanging loose near the park, safety hazard We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,3
+CMP1556,Street lights have been non-functional for 3 weeks,OFF004,Sunita Patel,electricity,Medium,7
+CMP1557,Electricity bill has wrong readings for three consecutive months Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,9
+CMP1558,The road in front of my house has a large pothole causing accidents Local authorities have not responded.,OFF006,Kavitha Rao,roads,High,3
+CMP1559,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,3
+CMP1560,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,6
+CMP1561,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,8
+CMP1562,Loud music from nearby wedding hall till 3am every night This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1563,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,3
+CMP1564,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,4
+CMP1565,Loud music from nearby wedding hall till 3am every night We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1566,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,2
+CMP1567,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,4
+CMP1568,Ration shop owner selling goods at higher than official price Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,3
+CMP1569,Kachra uthane wale 1 hafte se nahi aaye Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,4
+CMP1570,Water supply comes only for 30 minutes a day Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,Medium,9
+CMP1571,Water supply comes only for 30 minutes a day,OFF005,Mohan Das,water,Medium,6
+CMP1572,Electricity bill has wrong readings for three consecutive months Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,8
+CMP1573,Bribe demanded for property registration document Children and elderly people are at risk.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1574,"Garbage not collected for 10 days, health hazard Kindly resolve at earliest.",OFF003,Ankit Verma,sanitation,High,1
+CMP1575,Water supply comes only for 30 minutes a day Children and elderly people are at risk.,OFF005,Mohan Das,water,Medium,9
+CMP1576,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,9
+CMP1577,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,6
+CMP1578,Contractor taking money but not completing work Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1579,Contractor taking money but not completing work Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1580,The bridge near sector 5 has cracks and is dangerous Please look into this urgently.,OFF001,Rajesh Kumar,infrastructure,High,3
+CMP1581,Street lights have been non-functional for 3 weeks Local authorities have not responded.,OFF004,Sunita Patel,electricity,Medium,6
+CMP1582,Loud music from nearby wedding hall till 3am every night This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1583,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,1
+CMP1584,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,6
+CMP1585,Loud music from nearby wedding hall till 3am every night Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1586,"Power outage in our area for the last 12 hours, no response from helpline This is affecting many residents.",OFF004,Sunita Patel,electricity,High,3
+CMP1587,Stray dogs attacking people near the school Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,1
+CMP1588,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,4
+CMP1589,Kachra uthane wale 1 hafte se nahi aaye Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,High,2
+CMP1590,"Wires hanging loose near the park, safety hazard Kindly resolve at earliest.",OFF004,Sunita Patel,electricity,High,1
+CMP1591,Government scheme benefits not received despite eligibility Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,13
+CMP1592,Road construction debris left blocking traffic for days This has been going on for too long.,OFF006,Kavitha Rao,roads,Low,9
+CMP1593,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,3
+CMP1594,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,6
+CMP1595,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,5
+CMP1596,Ration shop owner selling goods at higher than official price Multiple complaints filed but no action taken.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1597,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,6
+CMP1598,Drainage overflow on main road due to blocked drains This has been going on for too long.,OFF003,Ankit Verma,sanitation,High,2
+CMP1599,Sewage water mixing with drinking water supply,OFF005,Mohan Das,water,High,1
+CMP1600,Road construction debris left blocking traffic for days Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,Low,11
+CMP1601,"Power outage in our area for the last 12 hours, no response from helpline Please look into this urgently.",OFF004,Sunita Patel,electricity,High,2
+CMP1602,Public toilet near bus stand is non-functional and filthy Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,Medium,5
+CMP1603,Contractor taking money but not completing work We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1604,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,7
+CMP1605,Pipeline leak on main road wasting water for weeks Please look into this urgently.,OFF005,Mohan Das,water,Medium,5
+CMP1606,Ration shop owner selling goods at higher than official price Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1607,Kachra uthane wale 1 hafte se nahi aaye Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,4
+CMP1608,Meter box outside our colony is damaged and exposed This is affecting many residents.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1609,Kachra uthane wale 1 hafte se nahi aaye This has been going on for too long.,OFF003,Ankit Verma,sanitation,High,4
+CMP1610,Transformer at main junction is sparking dangerously Local authorities have not responded.,OFF004,Sunita Patel,electricity,High,1
+CMP1611,Loud music from nearby wedding hall till 3am every night Multiple complaints filed but no action taken.,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1612,Dead animal carcass near playground not removed Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,2
+CMP1613,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,1
+CMP1614,"Wires hanging loose near the park, safety hazard This is affecting many residents.",OFF004,Sunita Patel,electricity,High,2
+CMP1615,No water supply since 2 days in entire block This has been going on for too long.,OFF005,Mohan Das,water,High,4
+CMP1616,Amare ghara saamne rasta beshi kharapa,OFF006,Kavitha Rao,roads,Medium,7
+CMP1617,Stray dogs attacking people near the school This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,1
+CMP1618,Stray dogs attacking people near the school Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,2
+CMP1619,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1620,Construction noise after 10pm violating norms daily Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,Medium,8
+CMP1621,The bridge near sector 5 has cracks and is dangerous We are suffering due to this issue.,OFF001,Rajesh Kumar,infrastructure,High,2
+CMP1622,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,5
+CMP1623,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,3
+CMP1624,"Water pressure is very low, barely usable This has been going on for too long.",OFF005,Mohan Das,water,Medium,4
+CMP1625,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,9
+CMP1626,Illegal dumping of chemical waste near river This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1627,Street lights have been non-functional for 3 weeks Please look into this urgently.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1628,Construction noise after 10pm violating norms daily Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,Medium,9
+CMP1629,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,10
+CMP1630,Drainage overflow on main road due to blocked drains Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,High,2
+CMP1631,Public toilet near bus stand is non-functional and filthy We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1632,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,5
+CMP1633,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,1
+CMP1634,Double taxation applied without proper reason We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,11
+CMP1635,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,2
+CMP1636,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,5
+CMP1637,Mere ghar ke paas ki sadak mein bahut bada gadha hai Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,High,3
+CMP1638,"Garbage not collected for 10 days, health hazard Kindly resolve at earliest.",OFF003,Ankit Verma,sanitation,High,1
+CMP1639,Ration shop owner selling goods at higher than official price,OFF008,Fatima Sheikh,corruption,High,3
+CMP1640,"Garbage not collected for 10 days, health hazard This has been going on for too long.",OFF003,Ankit Verma,sanitation,High,1
+CMP1641,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,7
+CMP1642,Sewage water mixing with drinking water supply This is affecting many residents.,OFF005,Mohan Das,water,High,1
+CMP1643,Pipeline leak on main road wasting water for weeks,OFF005,Mohan Das,water,Medium,6
+CMP1644,Government scheme benefits not received despite eligibility Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,14
+CMP1645,Sewage water mixing with drinking water supply This has been going on for too long.,OFF005,Mohan Das,water,High,1
+CMP1646,Meter box outside our colony is damaged and exposed Multiple complaints filed but no action taken.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1647,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,12
+CMP1648,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,14
+CMP1649,Loud music from nearby wedding hall till 3am every night We are suffering due to this issue.,OFF007,Deepak Nair,noise_pollution,Medium,6
+CMP1650,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,10
+CMP1651,Stray dogs attacking people near the school Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,High,2
+CMP1652,The road in front of my house has a large pothole causing accidents Local authorities have not responded.,OFF006,Kavitha Rao,roads,High,2
+CMP1653,Bribe demanded for property registration document Children and elderly people are at risk.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1654,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,4
+CMP1655,Double taxation applied without proper reason Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,9
+CMP1656,Illegal dumping of chemical waste near river,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1657,Road construction debris left blocking traffic for days,OFF006,Kavitha Rao,roads,Low,9
+CMP1658,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,9
+CMP1659,Factory releasing smoke causing breathing problems Local authorities have not responded.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1660,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,1
+CMP1661,Road construction debris left blocking traffic for days Please look into this urgently.,OFF006,Kavitha Rao,roads,Low,11
+CMP1662,Bribe demanded for property registration document,OFF008,Fatima Sheikh,corruption,High,2
+CMP1663,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,16
+CMP1664,Road construction debris left blocking traffic for days This is affecting many residents.,OFF006,Kavitha Rao,roads,Low,11
+CMP1665,The bridge near sector 5 has cracks and is dangerous Multiple complaints filed but no action taken.,OFF001,Rajesh Kumar,infrastructure,High,4
+CMP1666,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,7
+CMP1667,Factory releasing smoke causing breathing problems Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1668,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,4
+CMP1669,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,4
+CMP1670,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,3
+CMP1671,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1672,"Power outage in our area for the last 12 hours, no response from helpline This is affecting many residents.",OFF004,Sunita Patel,electricity,High,2
+CMP1673,Mere ghar ke paas ki sadak mein bahut bada gadha hai Kindly resolve at earliest.,OFF006,Kavitha Rao,roads,High,2
+CMP1674,Sewage water mixing with drinking water supply,OFF005,Mohan Das,water,High,3
+CMP1675,Sewage water mixing with drinking water supply Kindly resolve at earliest.,OFF005,Mohan Das,water,High,3
+CMP1676,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,2
+CMP1677,Meter box outside our colony is damaged and exposed This is affecting many residents.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1678,Amare ghara saamne rasta beshi kharapa Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1679,Kachra uthane wale 1 hafte se nahi aaye We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,2
+CMP1680,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,1
+CMP1681,Electricity bill has wrong readings for three consecutive months We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,7
+CMP1682,Water supply comes only for 30 minutes a day Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,Medium,6
+CMP1683,"Power outage in our area for the last 12 hours, no response from helpline Local authorities have not responded.",OFF004,Sunita Patel,electricity,High,1
+CMP1684,Dead animal carcass near playground not removed,OFF003,Ankit Verma,sanitation,High,1
+CMP1685,Ration shop owner selling goods at higher than official price This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,4
+CMP1686,The road in front of my house has a large pothole causing accidents Local authorities have not responded.,OFF006,Kavitha Rao,roads,High,2
+CMP1687,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,4
+CMP1688,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,3
+CMP1689,Ration shop owner selling goods at higher than official price We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1690,Drainage overflow on main road due to blocked drains Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,2
+CMP1691,Government scheme benefits not received despite eligibility Please look into this urgently.,OFF002,Priya Sharma,finance,Medium,16
+CMP1692,Contractor taking money but not completing work,OFF008,Fatima Sheikh,corruption,High,6
+CMP1693,Drainage overflow on main road due to blocked drains This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,3
+CMP1694,Stray dogs attacking people near the school We are suffering due to this issue.,OFF003,Ankit Verma,sanitation,High,3
+CMP1695,Factory releasing smoke causing breathing problems This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1696,Water supply comes only for 30 minutes a day Local authorities have not responded.,OFF005,Mohan Das,water,Medium,9
+CMP1697,The footpath near market is completely broken Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1698,Pani supply bilkul band ho gayi hai ward mein Please look into this urgently.,OFF005,Mohan Das,water,High,2
+CMP1699,"Water pressure is very low, barely usable Children and elderly people are at risk.",OFF005,Mohan Das,water,Medium,4
+CMP1700,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1701,Open burning of garbage causing pollution This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,Medium,4
+CMP1702,Contractor taking money but not completing work We are suffering due to this issue.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1703,Double taxation applied without proper reason,OFF002,Priya Sharma,finance,Medium,11
+CMP1704,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1705,Water supply comes only for 30 minutes a day Children and elderly people are at risk.,OFF005,Mohan Das,water,Medium,7
+CMP1706,Factory releasing smoke causing breathing problems Please look into this urgently.,OFF007,Deepak Nair,noise_pollution,High,5
+CMP1707,Sewage water mixing with drinking water supply Please look into this urgently.,OFF005,Mohan Das,water,High,1
+CMP1708,Stray dogs attacking people near the school Kindly resolve at earliest.,OFF003,Ankit Verma,sanitation,High,4
+CMP1709,Double taxation applied without proper reason Children and elderly people are at risk.,OFF002,Priya Sharma,finance,Medium,12
+CMP1710,Kachra uthane wale 1 hafte se nahi aaye Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,1
+CMP1711,Pani supply bilkul band ho gayi hai ward mein This has been going on for too long.,OFF005,Mohan Das,water,High,3
+CMP1712,Transformer at main junction is sparking dangerously This has been going on for too long.,OFF004,Sunita Patel,electricity,High,2
+CMP1713,Drainage overflow on main road due to blocked drains,OFF003,Ankit Verma,sanitation,High,4
+CMP1714,Meter box outside our colony is damaged and exposed Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,Medium,4
+CMP1715,Bribe demanded for property registration document Please look into this urgently.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1716,Dead animal carcass near playground not removed Local authorities have not responded.,OFF003,Ankit Verma,sanitation,High,3
+CMP1717,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,5
+CMP1718,Double taxation applied without proper reason Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,10
+CMP1719,Transformer at main junction is sparking dangerously Kindly resolve at earliest.,OFF004,Sunita Patel,electricity,High,1
+CMP1720,"Power outage in our area for the last 12 hours, no response from helpline",OFF004,Sunita Patel,electricity,High,1
+CMP1721,Factory releasing smoke causing breathing problems This has been going on for too long.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1722,Public toilet near bus stand is non-functional and filthy This is affecting many residents.,OFF003,Ankit Verma,sanitation,Medium,7
+CMP1723,Road construction debris left blocking traffic for days Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Low,9
+CMP1724,Kachra uthane wale 1 hafte se nahi aaye,OFF003,Ankit Verma,sanitation,High,1
+CMP1725,"Wires hanging loose near the park, safety hazard This has been going on for too long.",OFF004,Sunita Patel,electricity,High,4
+CMP1726,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,5
+CMP1727,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,1
+CMP1728,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,8
+CMP1729,No water supply since 2 days in entire block Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,High,4
+CMP1730,"Wires hanging loose near the park, safety hazard Local authorities have not responded.",OFF004,Sunita Patel,electricity,High,4
+CMP1731,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,2
+CMP1732,Contractor taking money but not completing work This has been going on for too long.,OFF008,Fatima Sheikh,corruption,High,5
+CMP1733,The road in front of my house has a large pothole causing accidents Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,High,3
+CMP1734,Stray dogs attacking people near the school,OFF003,Ankit Verma,sanitation,High,4
+CMP1735,No water supply since 2 days in entire block,OFF005,Mohan Das,water,High,1
+CMP1736,Public toilet near bus stand is non-functional and filthy This has been going on for too long.,OFF003,Ankit Verma,sanitation,Medium,7
+CMP1737,Government scheme benefits not received despite eligibility We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,15
+CMP1738,No water supply since 2 days in entire block Local authorities have not responded.,OFF005,Mohan Das,water,High,1
+CMP1739,Pipeline leak on main road wasting water for weeks Multiple complaints filed but no action taken.,OFF005,Mohan Das,water,Medium,4
+CMP1740,Pani supply bilkul band ho gayi hai ward mein,OFF005,Mohan Das,water,High,3
+CMP1741,Ration shop owner selling goods at higher than official price Kindly resolve at earliest.,OFF008,Fatima Sheikh,corruption,High,2
+CMP1742,Transformer at main junction is sparking dangerously Please look into this urgently.,OFF004,Sunita Patel,electricity,High,1
+CMP1743,Factory releasing smoke causing breathing problems This is affecting many residents.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1744,Meter box outside our colony is damaged and exposed,OFF004,Sunita Patel,electricity,Medium,4
+CMP1745,Factory releasing smoke causing breathing problems Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,3
+CMP1746,Transformer at main junction is sparking dangerously This is affecting many residents.,OFF004,Sunita Patel,electricity,High,2
+CMP1747,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,2
+CMP1748,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,10
+CMP1749,"Bijli 2 din se nahi hai, koi sunne wala nahi We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,2
+CMP1750,The road in front of my house has a large pothole causing accidents,OFF006,Kavitha Rao,roads,High,2
+CMP1751,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,1
+CMP1752,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,3
+CMP1753,Dead animal carcass near playground not removed This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,1
+CMP1754,Public toilet near bus stand is non-functional and filthy,OFF003,Ankit Verma,sanitation,Medium,6
+CMP1755,Electricity bill has wrong readings for three consecutive months,OFF002,Priya Sharma,finance,Medium,6
+CMP1756,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,3
+CMP1757,Illegal dumping of chemical waste near river Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,1
+CMP1758,Government scheme benefits not received despite eligibility,OFF002,Priya Sharma,finance,Medium,16
+CMP1759,Open burning of garbage causing pollution,OFF007,Deepak Nair,noise_pollution,Medium,7
+CMP1760,Factory releasing smoke causing breathing problems Multiple complaints filed but no action taken.,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1761,The footpath near market is completely broken Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,Medium,6
+CMP1762,Mere ghar ke paas ki sadak mein bahut bada gadha hai We are suffering due to this issue.,OFF006,Kavitha Rao,roads,High,3
+CMP1763,Double taxation applied without proper reason Multiple complaints filed but no action taken.,OFF002,Priya Sharma,finance,Medium,12
+CMP1764,Electricity bill has wrong readings for three consecutive months We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,6
+CMP1765,Dead animal carcass near playground not removed Please look into this urgently.,OFF003,Ankit Verma,sanitation,High,1
+CMP1766,Kachra uthane wale 1 hafte se nahi aaye This is affecting many residents.,OFF003,Ankit Verma,sanitation,High,4
+CMP1767,Mere ghar ke paas ki sadak mein bahut bada gadha hai,OFF006,Kavitha Rao,roads,High,5
+CMP1768,The footpath near market is completely broken,OFF006,Kavitha Rao,roads,Medium,7
+CMP1769,"Bijli 2 din se nahi hai, koi sunne wala nahi This is affecting many residents.",OFF004,Sunita Patel,electricity,High,3
+CMP1770,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,3
+CMP1771,Pani supply bilkul band ho gayi hai ward mein,OFF005,Mohan Das,water,High,4
+CMP1772,"Garbage not collected for 10 days, health hazard",OFF003,Ankit Verma,sanitation,High,4
+CMP1773,"Power outage in our area for the last 12 hours, no response from helpline We are suffering due to this issue.",OFF004,Sunita Patel,electricity,High,2
+CMP1774,"Bijli 2 din se nahi hai, koi sunne wala nahi Please look into this urgently.",OFF004,Sunita Patel,electricity,High,1
+CMP1775,Factory releasing smoke causing breathing problems,OFF007,Deepak Nair,noise_pollution,High,2
+CMP1776,Stray dogs attacking people near the school Children and elderly people are at risk.,OFF003,Ankit Verma,sanitation,High,4
+CMP1777,Contractor taking money but not completing work Children and elderly people are at risk.,OFF008,Fatima Sheikh,corruption,High,7
+CMP1778,Mere ghar ke paas ki sadak mein bahut bada gadha hai This has been going on for too long.,OFF006,Kavitha Rao,roads,High,5
+CMP1779,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,1
+CMP1780,Double taxation applied without proper reason Kindly resolve at earliest.,OFF002,Priya Sharma,finance,Medium,11
+CMP1781,Street lights have been non-functional for 3 weeks We are suffering due to this issue.,OFF004,Sunita Patel,electricity,Medium,5
+CMP1782,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,1
+CMP1783,Electricity bill has wrong readings for three consecutive months Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,7
+CMP1784,"Water pressure is very low, barely usable This is affecting many residents.",OFF005,Mohan Das,water,Medium,7
+CMP1785,Electricity bill has wrong readings for three consecutive months We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,9
+CMP1786,"Bijli 2 din se nahi hai, koi sunne wala nahi",OFF004,Sunita Patel,electricity,High,1
+CMP1787,Mere ghar ke paas ki sadak mein bahut bada gadha hai Multiple complaints filed but no action taken.,OFF006,Kavitha Rao,roads,High,3
+CMP1788,Transformer at main junction is sparking dangerously,OFF004,Sunita Patel,electricity,High,2
+CMP1789,Factory releasing smoke causing breathing problems Children and elderly people are at risk.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1790,Government scheme benefits not received despite eligibility We are suffering due to this issue.,OFF002,Priya Sharma,finance,Medium,14
+CMP1791,Factory releasing smoke causing breathing problems Kindly resolve at earliest.,OFF007,Deepak Nair,noise_pollution,High,4
+CMP1792,"Water pressure is very low, barely usable",OFF005,Mohan Das,water,Medium,6
+CMP1793,"Wires hanging loose near the park, safety hazard Multiple complaints filed but no action taken.",OFF004,Sunita Patel,electricity,High,3
+CMP1794,Double taxation applied without proper reason Local authorities have not responded.,OFF002,Priya Sharma,finance,Medium,11
+CMP1795,The road in front of my house has a large pothole causing accidents Please look into this urgently.,OFF006,Kavitha Rao,roads,High,5
+CMP1796,The footpath near market is completely broken Children and elderly people are at risk.,OFF006,Kavitha Rao,roads,Medium,8
+CMP1797,Public toilet near bus stand is non-functional and filthy Multiple complaints filed but no action taken.,OFF003,Ankit Verma,sanitation,Medium,4
+CMP1798,Water supply comes only for 30 minutes a day Please look into this urgently.,OFF005,Mohan Das,water,Medium,8
+CMP1799,Transformer at main junction is sparking dangerously Children and elderly people are at risk.,OFF004,Sunita Patel,electricity,High,3
