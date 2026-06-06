@@ -105,6 +105,10 @@ Sentence-transformers (e.g., `paraphrase-multilingual-MiniLM`) would give better
 3. Update `data/officers.json` with real officer list
 4. Run `python scripts/train.py`
 
+<img width="1918" height="965" alt="Screenshot from 2026-06-06 09-53-30" src="https://github.com/user-attachments/assets/2576b6f4-f104-4d15-95ba-14b68a790927" />
+<img width="1918" height="965" alt="Screenshot from 2026-06-06 09-53-10" src="https://github.com/user-attachments/assets/70640004-a872-4ca9-8ee3-414081a903c6" />
+
+
 ## Audio/Video Setup
 
 ```bash
